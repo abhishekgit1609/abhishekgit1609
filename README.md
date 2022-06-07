@@ -6,9 +6,9 @@
 
 ### <div align="center">I'm Abhishek Thakur, a College going Student  👨‍💻  And Coding and Tech Enthusiast 🚀</div>  
 ### GOALS (JUNE 2022)
- [ ] JAVASCRIPT
- [ ] JAVA
- [ ] HACKERANK 2 STAR
+ - [] JAVASCRIPT
+ - [] JAVA
+ - [] HACKERANK 2 STAR
 
   
 ## 🌐Socials
