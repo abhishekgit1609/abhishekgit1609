@@ -1,6 +1,12 @@
 # 💫About Me :
 I'M CURRENTLY WORKING ON MY CODING SKILLS AND ALSO DEVELOPMENT SKILLS. LOOKING FORWARD TO MEETUP UP NEW PEOPLE .
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
+### <div align="center">I'm Abhishek Thakur, a College going Student  👨‍💻  And Coding and Tech Enthusiast 🚀</div>  
+  
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/its_abhishek1609/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-thakur-080694214/) 
 
