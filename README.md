@@ -13,9 +13,9 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/abhisheksep2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/abhisheksep2003" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekgit1609" alt="abhishekgit1609" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 </p>
 
