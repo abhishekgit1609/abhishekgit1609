@@ -1,14 +1,8 @@
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 20%" />
-</div>  
+
   
 
 ### <div align="center">I'm Abhishek Thakur, a College going Student  👨‍💻  And Coding and Tech Enthusiast 🚀</div>  
-### GOALS (JUNE 2022)
- - [] JAVASCRIPT
- - [] JAVA
- - [] HACKERANK 2 STAR
 
   
 ## 🌐Socials
