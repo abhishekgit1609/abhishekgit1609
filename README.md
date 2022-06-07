@@ -1,5 +1,4 @@
-# 💫About Me :
-I'M CURRENTLY WORKING ON MY CODING SKILLS AND ALSO DEVELOPMENT SKILLS. LOOKING FORWARD TO MEETUP UP NEW PEOPLE .
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
