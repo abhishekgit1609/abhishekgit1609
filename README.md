@@ -5,6 +5,11 @@
   
 
 ### <div align="center">I'm Abhishek Thakur, a College going Student  👨‍💻  And Coding and Tech Enthusiast 🚀</div>  
+### GOALS (JUNE 2022)
+- [] JAVASCRIPT
+- [] JAVA
+- [] HACKERANK 2 STAR
+
   
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/its_abhishek1609/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-thakur-080694214/) 
