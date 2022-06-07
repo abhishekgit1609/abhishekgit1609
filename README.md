@@ -1,23 +1,15 @@
-### Hi there 👋, I'M ABHISHEK THAKUR
-#### TECH GEEK AND CODING ENTHUSIAST 
+# 💫About Me :
 I'M CURRENTLY WORKING ON MY CODING SKILLS AND ALSO DEVELOPMENT SKILLS. LOOKING FORWARD TO MEETUP UP NEW PEOPLE .
 
-Skills: JAVA || JAVASCRIPT
+## 🌐Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/its_abhishek1609/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-thakur-080694214/) 
 
-- 🌱 I’m currently learning JAVA | JAVASCRIPT 
-- 💬 Ask me about JAVA | JAVASCRIPT  
-- 📫 How to reach me: abhisheksep2003@gmail.com 
-- 😄 Pronouns: Abhi 
-- ⚡ Fun fact: I AM CONTENT CREATOR | VIDEO EDITOR | MUSIC LOVER 
+# 💻Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=abhishekgit1609&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhishekgit1609&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekgit1609&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/abhishekgit1609)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abhishek-thakur-080694214//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/its_abhishek1609//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobepremierepro.svg' alt='adobepremierepro' height='40'>](https://www.instagram.com/p/Cd4tskAAeCK/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/abhishekgit1609)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/abhishekgit1609&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/abhishekgit1609)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/abhishekgit1609)  
-
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
