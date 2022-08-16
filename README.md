@@ -12,10 +12,6 @@
 
 - 📫 How to reach me **abhisheksep2003@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 
 
 
