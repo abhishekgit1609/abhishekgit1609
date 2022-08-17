@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **C++,JAVA**
+- 💬 Ask me about **C++**
 
 - 📫 How to reach me **abhisheksep2003@gmail.com**
 
