@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **DSA AND FRONTEND DEVELOPMENT**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **C++,JAVA**
 
