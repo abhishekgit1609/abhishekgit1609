@@ -2,8 +2,9 @@
 
   
 
-### <div align="center">I'm Abhishek Thakur, a College going Student  👨‍💻  And Coding and Tech Enthusiast 🚀</div>  
+### <div align="center">I'm Abhishek Thakur, a College Student  👨‍💻  Coding and Tech Enthusiast from India 🚀</div>  
 
+<img align="right" alt="Coding" width="400" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif">
 
 
 - 🌱 I’m currently learning **DSA**
