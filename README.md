@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **React Native Intern**
 
-- 🌱 I’m currently learning **Android , DSA , Flutter**
+- 🌱 I’m currently learning **Android , DSA **
 
 - 💬 Ask me about **react , javascript , java , react native , App Dev**
 
