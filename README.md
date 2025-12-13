@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Thakur</h1>
 <h3 align="center">I am a passionate app developer with hands-on experience in building intuitive and user-friendly apps using React Native. With a focus on crafting seamless UI and enhancing functionality, I strive to deliver impactful digital solutions that stand out.</h3>
 
-- 🔭 I’m currently working as **React Native Intern**
+- 🔭 I’m currently working as **Software Engineer**
 
 - 🌱 I’m currently learning **Android , DSA **
 
